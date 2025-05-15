@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text from terminal
+=======
+Hi! Good Afternoon...
+>>>>>>> caaee169e0bf5327133c4af8d91478f993fced8b
